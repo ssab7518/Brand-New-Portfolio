@@ -1,0 +1,65 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.AB{
+  color: 
+}
+body {
+  background-image: url("2.jpg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+table{
+ border:10px solid cyan;
+background-color: lightgreen;
+ width: 550px;
+}
+
+button {
+  background-color: rgba(112, 185, 228, 0.87);
+  border: 1px black;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+button:hover{
+background-color: green;
+}
+
+img{
+  width: 350px;
+  height: 350px;
+}
+.co{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ci{
+  font-family: cursive;
+  color: aliceblue;
+}
+.topnav {
+  color:red;
+ 
+  background-image: linear-gradient(cyan,purple);
+}
+.ts{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body {
+  background-image: url("2.jpg") ;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+.hiii{border-radius: 50%;
+     width:100px;
+     height:100px;}
+#bg{border-radius: 20%;}
